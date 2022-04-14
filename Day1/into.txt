@@ -1,0 +1,8 @@
+1. i have Learn some topics about Bloclchain Development
+
+
+2. Watching tutorials from video which is provided by the Mentor https://ethereum.org/en/developers/docs/networks/
+
+3. get full reading of Wallets and Ethereum networks
+
+4. LEarn some Fundamental about solidity
